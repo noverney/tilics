@@ -3,7 +3,7 @@
 <!-- END TITLE -->
 
 <!-- BEGIN BODY -->
-A programming language is a high-level language that programmers can write, read and understand. There are many programming languages such as Java, C++, Fortran, and many more.
+A programming language is a high-level language that programmers can write, read and understand. There are many programming languages such as Java, C++, Fortran, and more.
 
 A machine language is a low-level language that the machines can read, and understand. It is just one language which is a stream of 0's & 1's.
 
